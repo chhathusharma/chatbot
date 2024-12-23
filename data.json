@@ -1,0 +1,86 @@
+{
+    "hi": "Hello! How can I help you today?",
+    "Hi": "Hello! How can I help you today?",
+    "Hlw": "Hello! How can I help you today?",
+    "hlw": "Hello! How can I help you today?",
+
+    "hii": "Hello! How can I help you today?",
+    "Hii": "Hello! How can I help you today?",
+    "hello": "Hello! How can I help you today?",
+    "Hello": "Hello! How can I help you today?",
+    
+    "what is the students intake?": "1. B-tech(CS): 640,\n2. B.sc(IT): 360,\n3. BCA Normal: 500,\n4. BCA (DS & AI): 400,\n5. B-tech Splz: 460",      
+    "What is the Students Intake?": "1. B-tech(CS): 640,\n2. B.sc(IT): 360,\n3. BCA Normal: 500,\n4. BCA (DS & AI): 400,\n5. B-tech Splz: 460",
+    
+    "department wise students intake": "1. B-tech(CS): 640,\n2. B.sc(IT): 360,\n3. BCA Normal: 500,\n4. BCA (DS & AI): 400,\n5. B-tech Splz: 460",
+    "Department wise students intake": "1. B-tech(CS): 640,\n2. B.sc(IT): 360,\n3. BCA Normal: 500,\n4. BCA (DS & AI): 400,\n5. B-tech Splz: 460",
+    
+    
+    "placement department info": "Name of TPO:Dr. Omprakash (Director Placement) and Contact no.:9527100035 ",
+    "Placement Department Info": "Name of TPO:Dr. Omprakash (Director Placement) and Contact no.:9527100035 ",
+    
+    "IT HOD Contact": "Name:Dr. Bineet Kumar Gupta (Director of DCSIS) ",
+    "it hod contact": "Name:Dr. Bineet Kumar Gupta (Director of DCSIS) ",
+    
+
+    "All HOD contact info": "\n1. IT HOD: Name:Dr.Bineet Kumar Gupta(Director of DCSIS)",
+
+    "Admission Department Info": "Name:Renu Ma'am  and Contact no.:+919838904666 ",
+    "admission department info": "Name:Renu Ma'am  and Contact no.:+919838904666 ",
+    
+    
+   "Facilities College": "1. Free wifi\n  2. Centrol Library\n  3. Indoor Outdoor sports\n  4. Canteen\n  5. Reading Hall\n  6.transportation",
+   "facilities college": "1. Free wifi\n  2. Centrol Labrary\n  3. Indoor Outdoor sports\n  4. Canteen\n  5. Reading Hall\n  6.transportation",
+
+    "Facilities Computer Lab": "Computer Lab : The Computer labs are SRMU'S technological haven,Providing adavanced resources for hands-on learning, and encouraging innovation and excellence in the field of computing.",
+    "facilities computer lab": "Computer Lab : The Computer labs are SRMU'S technological haven,Providing adavanced resources for hands-on learning, and encouraging innovation and excellence in the field of computing.",
+
+    "Facilities Seminar Hall": "SRMU'S on-Campus healthcare facilities ensure the well-being of the student community with comprehensive and accessible medical services. Promoting a healthy campus environment.",
+    "facilities seminar hall": "SRMU'S on-Campus healthcare facilities ensure the well-being of the student community with comprehensive and accessible medical services. Promoting a healthy campus environment.",
+
+    "Facilities Healthcare": "SRMU'S on-Campus healthcare facilities ensure the well-being of the student community with comprehensive and accessible medical services. Promoting a healthy campus environment.",
+    "facilities healthcare": "SRMU'S on-Campus healthcare facilities ensure the well-being of the student community with comprehensive and accessible medical services. Promoting a healthy campus environment.",
+
+
+    "Clubs": "\n1. The Manch Club, \n2. Tech Fusion Club, \n3. The Ozone Club, \n4. 1090 Power Angels & The power SuperHeroes Club,\n5. Sur Jhankar, \n6. Positive Psychology, \n7. Srijan Club, \n8. Snapshot, \n9. Apni Pathshala Club, \n10. The Golden Pen Club, \n11. Razzmataz, \n12. Beat the Beat, \n13. Expressions ",
+    "clubs": "\n1. The Manch Club, \n2. Tech Fusion Club, \n3. The Ozone Club, \n4. 1090 Power Angels & The power SuperHeroes Club,\n5. Sur Jhankar, \n6. Positive Psychology, \n7. Srijan Club, \n8. Snapshot, \n9. Apni Pathshala Club, \n10. The Golden Pen Club, \n11. Razzmataz, \n12. Beat the Beat, \n13. Expressions ",
+
+    "Chatbot Provide By":"Mr. Chhathu Sharma (Cloud Computing)",
+    "chatbot provide by":"Mr. Chhathu Sharma (Cloud Computing)",
+
+    "All Years Fees Structure (UG)": "1) 1st year/FE: 1. B-tech (CS) Fee:RS 152000, \n2. BCA Normal Fee:RS 85000, \n3. B-tech splz Fee:RS 137000,  \n4. B.sc (IT) Fee:RS 73000",
+    
+    "1st year fee structure (UG)": "1. B-tech (CS) Fee:RS 152000, \n2. BCA Normal Fee:RS 87000, \n3. B-tech splz Fee:RS 137000,  \n4. B.sc (IT) Fee:RS 73000 \n5. BCA (DS & AI) Fee:RS 105000",
+    "2nd year fee structure (UG)": "1. B-tech (CS) Fee:RS 152000, \n2. BCA Normal Fee:RS 85000, \n3. B-tech splz Fee:RS 137000,  \n4. B.sc (IT) Fee:RS 68000 \n5. BCA (DS & AI) Fee:RS 103000",
+    "3rd year fee structure (UG)": "1. B-tech (CS) Fee:RS 152000, \n2. BCA Normal Fee:RS 85000, \n3. B-tech splz Fee:RS 137000,  \n4. B.sc (IT) Fee:RS 68000 \n5. BCA (DS & AI) Fee:RS 103000",
+    "4th year fee structure (UG)": "1. B-tech (CS) Fee:RS 153000, \n2. B-tech splz Fee:RS 138000",
+
+    "1st Year Fee Structure (UG)": "1. B-tech (CS) Fee:RS 152000, \n2. BCA Normal Fee:RS 87000, \n3. B-tech splz Fee:RS 137000,  \n4. B.sc (IT) Fee:RS 73000 \n5. BCA (DS & AI) Fee:RS 105000",
+    "2nd Year Fee Structure (UG)": "1. B-tech (CS) Fee:RS 152000, \n2. BCA Normal Fee:RS 85000, \n3. B-tech splz Fee:RS 137000,  \n4. B.sc (IT) Fee:RS 68000 \n5. BCA (DS & AI) Fee:RS 103000",
+    "3rd Year Fee Structure (UG)": "1. B-tech (CS) Fee:RS 152000, \n2. BCA Normal Fee:RS 85000, \n3. B-tech splz Fee:RS 137000,  \n4. B.sc (IT) Fee:RS 68000 \n5. BCA (DS & AI) Fee:RS 103000",
+    "4th Year Fee Structure (UG)": "1. B-tech (CS) Fee:RS 153000, \n2. B-tech splz Fee:RS 138000",
+
+
+
+
+    "Srmu College Address": "Shri Ramswaroop Memorial University Village - Hadauri, Post - Tindola, Lucknow-Deva Road, Barabanki, Uttar Pradesh - 225003 (India) ",
+    "srmu college address": "Shri Ramswaroop Memorial University Village - Hadauri, Post - Tindola, Lucknow-Deva Road, Barabanki, Uttar Pradesh - 225003 (India) ",
+    "Srmu Location": "X33X+43Q, Shri Ramswaroop Memorial University, Lucknow, Uttar Pradesh",
+    "srmu location": "X33X+43Q, Shri Ramswaroop Memorial University, Lucknow, Uttar Pradesh",
+    
+    "Srmu College Email": "admission@srmu.ac.in",
+    "srmu college email": "admission@srmu.ac.in",
+    
+    "Srmu College Contact": "18001026004 ",
+    "srmu college contact": "18001026004 ",
+
+    "Srmu Information": "Shri Ramswaroop Memorial University is a private university which was established in 2012 and is located in Lucknow, Uttar Pradesh. SRMU has years of legacy and stands as a beacon of academic, cultural and intellectual excellence, with 11 institutes which offer several programmes. The university is recognized by the UGC and AICTE. SRMU is a member of AIU and  accredited by the NAAC. It also offers courses approved by the COI, NCTE, PCI and BCI. The university  focuses on providing interdisciplinary programs that lead to professional excellence. SRMU offers more than 100 programmes in undergraduate, postgraduate, doctoral and diploma. The university offers programmes in various fields such as Engineering, Pharmacy, Management, Computer Science, Architecture, Media Studies, Biotechnology, Social Work, and others. The university has a placement cell which helps the students to attain their future goals. Shri Ramswaroop Memorial University has recorded a decent salary package, 194 recruiters participated during the placement drive. The highest package offered during SRMU placement 2023 is INR 30 LPA. The university is spread across 100 acres of area with modern infrastructure and the best facilities for the students. The major highlights of SRMU.Particulars : SRMU University Highlights 2024 , Established Year : \n2012,\nLocation : \nLucknow, \nApproved By : \nCOI, NCTE, PCI, BCI, \nNumber of Constituent Institutes : \n11 \nNumber of Courses Offered \n100+ \nHighest Package \nINR 30 LPA \nTop Recruiters \nWipro, Genpact, Cognizant \nShiksha, Review : \n3.5/5, \nOfficial  Website : \n(https://srmu.ac.in) ",
+    "srmu information": "Shri Ramswaroop Memorial University is a private university which was established in 2012 and is located in Lucknow, Uttar Pradesh. SRMU has years of legacy and stands as a beacon of academic, cultural and intellectual excellence, with 11 institutes which offer several programmes. The university is recognized by the UGC and AICTE. SRMU is a member of AIU and  accredited by the NAAC. It also offers courses approved by the COI, NCTE, PCI and BCI. The university  focuses on providing interdisciplinary programs that lead to professional excellence. SRMU offers more than 100 programmes in undergraduate, postgraduate, doctoral and diploma. The university offers programmes in various fields such as Engineering, Pharmacy, Management, Computer Science, Architecture, Media Studies, Biotechnology, Social Work, and others. The university has a placement cell which helps the students to attain their future goals. Shri Ramswaroop Memorial University has recorded a decent salary package, 194 recruiters participated during the placement drive. The highest package offered during SRMU placement 2023 is INR 30 LPA. The university is spread across 100 acres of area with modern infrastructure and the best facilities for the students. The major highlights of SRMU.Particulars : SRMU University Highlights 2024 , Established Year : \n2012,\nLocation : \nLucknow, \nApproved By : \nCOI, NCTE, PCI, BCI, \nNumber of Constituent Institutes : \n11 \nNumber of Courses Offered \n100+ \nHighest Package \nINR 30 LPA \nTop Recruiters \nWipro, Genpact, Cognizant \nShiksha, Review : \n3.5/5, \nOfficial  Website : \n(https://srmu.ac.in) ",
+    
+    "Help Desk Number": "Help Desk No. 18001026004",
+    "help desk number": "Help Desk No. 18001026004"
+
+
+
+
+}
